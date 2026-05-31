@@ -7,7 +7,6 @@
 - VLAN 999 (Unused Ports)
 - Router-on-a-Stick
 - DHCP
-- SSH
 - Port Security
 - Trunk Restrictions
 - Native VLAN Configuration
