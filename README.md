@@ -31,7 +31,7 @@ This project is a small secure business network created in Cisco Packet Tracer.
 
 ## Topology
 
-![Topology](topology.png)
+1 Router, 2 Switches And 8 Pc's
 
 ## Troubleshooting
 
